@@ -1,0 +1,47 @@
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+*.userprefs
+
+mono_crash.*
+
+[Db]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]obj/
+
+
+.vs/
+.vscode/
+
+**/packages/*
+!**/packages/*.numspec
+
+artifacts/
+
+wwroot/lib/
+
+/.vs/
+
+secrets.json
+
+*.log
+
+.DS_Store
+Thumbs.db
+
+# publish/bin/
+# obj/
+# *.user/
+# *.suo/
+# *.vs/
+# *.vscode/
+# appsettings.json
+# secrets.json
